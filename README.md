@@ -45,12 +45,6 @@ These actions are defined in the `AppReducer` and allow components to interact w
 2. Install the required dependencies using `npm install`.
 3. Start the development server using `npm start`.
 
-## Contributors
-
-- [Your Name](https://github.com/dnich02f)
-
-Feel free to contribute to the project by opening issues or submitting pull requests.
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
