@@ -4,9 +4,16 @@ This is a simple Expense Tracker application built using React and the Context A
 
 ## Features
 
-- Add income and expense transactions
-- Display the current balance, income, and expenses
-- View a list of all transactions
+- Dynamically Display current balance.
+- Show amounts for income and expense categories.
+- View transaction history.
+- Add and Delete transactions.
+- Display red (expense) or green (income) border for transactions
+- Stylish and responsive interface.
+
+
+## Screenshot
+![](react-expense-tracker/ExpenseTrackerv3.gif)
 
 ## Technologies Used
 * React
